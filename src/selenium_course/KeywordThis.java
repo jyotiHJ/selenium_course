@@ -1,6 +1,6 @@
 package selenium_course;
 
-public class ThisKeyword {
+public class KeywordThis {
 
 	public static void main(String[] args) {
 		pen1 p =new pen1();
